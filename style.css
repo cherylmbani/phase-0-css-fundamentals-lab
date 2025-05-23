@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+/* Styling up the <a> elements*/
+a{
+        background-color: grey;
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+/*Styling the image*/
+      #featured-property p{
+        width: 800px;
+        text-align: center;
+        margin-top: 30px auto;
+        margin-bottom: 30px;
+
+      }
+      
